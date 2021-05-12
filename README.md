@@ -1,4 +1,13 @@
-Hi! I'm Callum, a 1st year PhD student in the Biology department at Penn State, studying infectious disease epidemiology. I spend a lot of my day thinking about ways to model respiratory viruses (currently SARS-CoV-2 and measles), often using both traditional epidemiological methods and mathematical models (compartmental and occasionally network), to better understand burdens of disease, incidence forecasting, and optimization of operational decisions resulting from scenario projections. I mainly work in R, but sometimes dabble with Python and am currently learning Stan for bayesian data analysis.
+![](Github-banner.tif)
+
+Hi! I'm Callum, a 1st year PhD student in the Biology department at Penn State, 
+studying infectious disease epidemiology. I spend a lot of my day thinking 
+about ways to model respiratory viruses (currently SARS-CoV-2 and measles), 
+often using both traditional epidemiological methods and mathematical models 
+(compartmental and occasionally network), to better understand burdens of 
+disease, incidence forecasting, and optimization of operational decisions 
+resulting from scenario projections. I mainly work in R, but sometimes dabble 
+with Python and am currently learning Stan for bayesian data analysis.
 
 - 🔭 I’m currently working on:
   - The [Data4Action cohort study](https://github.com/arnold-c/Data4Action-Public) to better understand SARS-CoV-2 transmission dynamics in University communities
