@@ -10,3 +10,9 @@ Hi! I'm Callum, a 1st year PhD student in the Biology department at Penn State, 
   - At my twitter (although I'm not particularly active, I will respond to DMs)
   - Via email (__callum__ *dot* __arnold__ *at* __outlook__ *dot* __com__)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnold-c&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-c&hide=html&theme=dracula" />
+</a>
