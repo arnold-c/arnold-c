@@ -1,6 +1,6 @@
 ![](Github-banner.tif)
 
-Hi! I'm Callum, a 1st year PhD student in the Biology department at Penn State, 
+Hi! I'm Callum, a 1st year PhD candidate in the Biology department at Penn State, 
 studying infectious disease epidemiology. I spend a lot of my day thinking 
 about ways to model respiratory viruses (currently SARS-CoV-2 and measles), 
 often using both traditional epidemiological methods and mathematical models 
