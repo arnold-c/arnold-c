@@ -21,5 +21,5 @@ with Python and am currently learning Stan for bayesian data analysis.
 
 [![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnold-c&theme=default)
+[![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
