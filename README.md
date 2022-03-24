@@ -19,6 +19,8 @@ with Python and am currently learning Stan for bayesian data analysis.
   - At my twitter (although I'm not particularly active, I will respond to DMs)
   - Via email (__callum__ *dot* __arnold__ *at* __outlook__ *dot* __com__)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnold-c&theme=dracula" />
 </a>
