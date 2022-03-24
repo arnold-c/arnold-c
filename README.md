@@ -22,4 +22,6 @@ with Python and am currently learning Stan for bayesian data analysis.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnold-c&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnold-c&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnold-c&theme=default)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-c&hide=html&theme=dracula" />
+</a>
