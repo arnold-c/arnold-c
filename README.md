@@ -19,7 +19,7 @@ with Python and am currently learning Stan for bayesian data analysis.
   - At my twitter (although I'm not particularly active, I will respond to DMs)
   - Via email (__callum__ *dot* __arnold__ *at* __outlook__ *dot* __com__)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnold-c&theme=default)
+[![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnold-c&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
