@@ -13,6 +13,7 @@ with Python and am currently learning Stan for bayesian data analysis.
   - The [Data4Action cohort study](https://github.com/arnold-c/Data4Action-Public) to better understand SARS-CoV-2 transmission dynamics in University communities
   - A couple of projects examining the burden of measles in the Democratic Republic of Congo
 - 🌱 I’m currently learning:
+  - Julia
   - Stan
 - 👯 I’m looking to collaborate on any interesting epidemiology projects
 - 📫 How to reach me:
