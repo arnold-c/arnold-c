@@ -1,4 +1,4 @@
-![](Github-banner.tif)
+KK![](Github-banner.tif)
 
 Hi! I'm Callum, a 3rd year PhD candidate in the Biology department at Penn State, studying infectious disease epidemiology.
 I spend a lot of my day thinking about respiratory viruses (currently SARS-CoV-2 and measles), using traditional epidemiological methods and mathematical transmission models to better understand the burden of disease.
@@ -22,4 +22,4 @@ I mainly work in R and Julia, but sometimes dabble with Python for personal proj
 [![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-c&layout=compact&hide=javascript,html,jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-c&layout=compact&hide=javascript,html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
