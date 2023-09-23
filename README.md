@@ -22,4 +22,4 @@ I mainly work in R and Julia, but sometimes dabble with Python for personal proj
 [![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-c&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-c&layout=compact&hide=javascript,html,jupyter)](https://github.com/anuraghazra/github-readme-stats)
