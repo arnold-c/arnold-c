@@ -1,4 +1,4 @@
-KK![](Github-banner.tif)
+![](Github-banner.tif)
 
 Hi! I'm Callum, a 3rd year PhD candidate in the Biology department at Penn State, studying infectious disease epidemiology.
 I spend a lot of my day thinking about respiratory viruses (currently SARS-CoV-2 and measles), using traditional epidemiological methods and mathematical transmission models to better understand the burden of disease.
