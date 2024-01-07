@@ -1,6 +1,6 @@
 ![](Github-banner.tif)
 
-Hi! I'm Callum, a 3rd year PhD candidate in the Biology department at Penn State, studying infectious disease epidemiology.
+Hi! I'm Callum, a 4th year PhD candidate in the Biology department at Penn State, studying infectious disease epidemiology.
 I spend a lot of my day thinking about respiratory viruses (currently SARS-CoV-2 and measles), using traditional epidemiological methods and mathematical transmission models to better understand the burden of disease.
 More specifically, I am exploring how the choices we make when discretizing continuous and complex phenomena, such as assigning individuals into different transmission risk groups or turning an serological IgG optical density value into a binary positive/negative result, affects our ability to prevent, detect, and even understand outbreaks.
 
@@ -13,7 +13,7 @@ I mainly work in R and Julia, but sometimes dabble with Python for personal proj
   - Creating a handbook about [Julia for epidemiologists](https://juliaepibook.callumarnold.com/), inspired by the excellent [EpiRHandbook](https://epirhandbook.com/en/)
 - 🌱 I’m currently learning:
   - Javascript
-  - Stan
+  - Rust
 - 👯 I’m always looking to collaborate on any interesting epidemiology projects
 - 📫 How to reach me:
   - At my twitter (although I'm not particularly active, I will respond to DMs)
