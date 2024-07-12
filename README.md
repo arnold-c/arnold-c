@@ -4,7 +4,7 @@ Hi! I'm Callum, a 4th year PhD candidate in the Biology department at Penn State
 I spend a lot of my day thinking about respiratory viruses (currently SARS-CoV-2 and measles), using traditional epidemiological methods and mathematical transmission models to better understand the burden of disease.
 More specifically, I am exploring how the choices we make when discretizing continuous and complex phenomena, such as assigning individuals into different transmission risk groups or turning an serological IgG optical density value into a binary positive/negative result, affects our ability to prevent, detect, and even understand outbreaks.
 
-I mainly work in R and Julia, but sometimes dabble with Python for personal projects, and am currently learning Javascript (and D3), as well as Stan for bayesian data analysis.
+I mainly work in R and Julia, but sometimes dabble with Python for personal projects, and am currently learning Javascript (and D3) for web development and interactive plots and books, and Rust for CLI tools.
 
 - 🔭 I’m currently working on:
   - The [Data4Action cohort study](https://github.com/arnold-c/Data4Action-Public) to better understand SARS-CoV-2 transmission dynamics in University communities
@@ -16,8 +16,8 @@ I mainly work in R and Julia, but sometimes dabble with Python for personal proj
   - Rust
 - 👯 I’m always looking to collaborate on any interesting epidemiology projects
 - 📫 How to reach me:
-  - At my twitter (although I'm not particularly active, I will respond to DMs)
-  - Via email (__arnold__ *dot* __crk__ *at* __gmail__ *dot* __com__)
+  - At [my twitter](https://x.com/thecallumarnold) (although I'm not particularly active, I will respond to DMs)
+  - Via email (__contact__ *at* __callumarnold__ *dot* __com__)
 
 [![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
