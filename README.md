@@ -1,10 +1,10 @@
 ![](Github-banner.tif)
 
-Hi! I'm Callum, a 4th year PhD candidate in the Biology department at Penn State, studying infectious disease epidemiology.
-I spend a lot of my day thinking about respiratory viruses (currently SARS-CoV-2 and measles), using traditional epidemiological methods and mathematical transmission models to better understand the burden of disease.
+Hi! I'm Callum, a postdoctoral scholar in the Biology department at Penn State, studying infectious disease epidemiology.
+I spend a lot of my day thinking about respiratory viruses (currently measles and foot and mouth disease), using traditional epidemiological methods and mathematical transmission models to better understand the burden of disease.
 More specifically, I am exploring how the choices we make when discretizing continuous and complex phenomena, such as assigning individuals into different transmission risk groups or turning an serological IgG optical density value into a binary positive/negative result, affects our ability to prevent, detect, and even understand outbreaks.
 
-I mainly work in R and Julia, but sometimes dabble with Python for personal projects, and am currently learning Javascript (and D3) for web development and interactive plots and books, and Rust for CLI tools.
+I mainly work in R and Julia, but sometimes dabble with Python for personal projects, and am currently learning Javascript (and D3) for web development and interactive plots and books, and Rust and Go for CLI tools.
 
 - 🔭 I’m currently working on:
   - The [Data4Action cohort study](https://github.com/arnold-c/Data4Action-Public) to better understand SARS-CoV-2 transmission dynamics in University communities
@@ -14,6 +14,7 @@ I mainly work in R and Julia, but sometimes dabble with Python for personal proj
 - 🌱 I’m currently learning:
   - Javascript
   - Rust
+  - Go
 - 👯 I’m always looking to collaborate on any interesting epidemiology projects
 - 📫 How to reach me:
   - At [my twitter](https://x.com/thecallumarnold) (although I'm not particularly active, I will respond to DMs)
