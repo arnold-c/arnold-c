@@ -1,16 +1,20 @@
 ![](Github-banner.tif)
 
-Hi! I'm Callum, a postdoctoral scholar in the Biology department at Penn State, studying infectious disease epidemiology.
+Hi! I'm Callum, a postdoctoral scholar in the Ecology and Evolutionary Biology department at the University of Toronto, studying infectious disease epidemiology.
 I spend a lot of my day thinking about respiratory viruses (currently measles and foot and mouth disease), using traditional epidemiological methods and mathematical transmission models to better understand the burden of disease.
 More specifically, I am exploring how the choices we make when discretizing continuous and complex phenomena, such as assigning individuals into different transmission risk groups or turning an serological IgG optical density value into a binary positive/negative result, affects our ability to prevent, detect, and even understand outbreaks.
 
 I mainly work in R and Julia, but sometimes dabble with Python for personal projects, and am currently learning Javascript (and D3) for web development and interactive plots and books, and Rust and Go for CLI tools.
 
 - 🔭 I’m currently working on:
-  - The [Data4Action cohort study](https://github.com/arnold-c/Data4Action-Public) to better understand SARS-CoV-2 transmission dynamics in University communities
-  - Measles burden estimation, and a vaccination campaign effectiveness evaluation, in the Democratic Republic of Congo, in collaboration with the Epicentre team from Médecins Sans Frontières
   - Developing methods for better detection measles outbreak in settings with limited resources and test capabilities
   - Creating a handbook about [Julia for epidemiologists](https://juliaepibook.callumarnold.com/), inspired by the excellent [EpiRHandbook](https://epirhandbook.com/en/)
+  - Creating a guide for epidemiologist on how best to [integrate AI and agentic code editors](https://aiforepi.com) into their workflow to improve the quality and reliability of the software that forms the basis of our research
+  - Creating [intro to infectious disease modeling tutorials](sismid2025.callumarnold.com) for students and policy makers
+- I previously spent time thinking about:
+  - The [Data4Action cohort study](https://github.com/arnold-c/Data4Action-Public) to better understand SARS-CoV-2 transmission dynamics in University communities
+  - Measles burden estimation, and a vaccination campaign effectiveness evaluation, in the Democratic Republic of Congo, in collaboration with the Epicentre team from Médecins Sans Frontières
+  - Creating [introductory git resources](gitforscientists.callumarnold.com) to help introduce researchers to the fundamentals of reproducible research
 - 🌱 I’m currently learning:
   - Javascript
   - Rust
