@@ -10,11 +10,11 @@ I mainly work in R and Julia, but sometimes dabble with Python for personal proj
   - Developing methods for better detection measles outbreak in settings with limited resources and test capabilities
   - Creating a handbook about [Julia for epidemiologists](https://juliaepibook.callumarnold.com/), inspired by the excellent [EpiRHandbook](https://epirhandbook.com/en/)
   - Creating a guide for epidemiologist on how best to [integrate AI and agentic code editors](https://aiforepi.com) into their workflow to improve the quality and reliability of the software that forms the basis of our research
-  - Creating [intro to infectious disease modeling tutorials](sismid2025.callumarnold.com) for students and policy makers
+  - Creating [intro to infectious disease modeling tutorials](https://sismid2025.callumarnold.com) for students and policy makers
 - I previously spent time thinking about:
   - The [Data4Action cohort study](https://github.com/arnold-c/Data4Action-Public) to better understand SARS-CoV-2 transmission dynamics in University communities
   - Measles burden estimation, and a vaccination campaign effectiveness evaluation, in the Democratic Republic of Congo, in collaboration with the Epicentre team from Médecins Sans Frontières
-  - Creating [introductory git resources](gitforscientists.callumarnold.com) to help introduce researchers to the fundamentals of reproducible research
+  - Creating [introductory git resources](https://gitforscientists.callumarnold.com) to help introduce researchers to the fundamentals of reproducible research
 - 🌱 I’m currently learning:
   - Javascript
   - Rust
