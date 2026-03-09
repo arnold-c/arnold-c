@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/arnold-c/arnold-c/main/profile-summary-card-output/city_lights/4-productive-time.svg)
-```
-
-    
